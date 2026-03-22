@@ -1,0 +1,124 @@
+{
+  "document": {
+    "name": "demo_operations_manual.pdf",
+    "pages": 2,
+    "metadata": {
+      "source_name": "demo_operations_manual.pdf",
+      "pages": 2,
+      "words": 68,
+      "tables": 0,
+      "average_confidence": 95.0,
+      "engine": "Demo"
+    }
+  },
+  "workflow": [
+    {
+      "step_id": "S01",
+      "title": "Verify source document integrity and approvals before conversion.",
+      "description": "1. Verify source document integrity and approvals before conversion.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S02",
+      "title": "Extract document metadata, headings, tables, and lists.",
+      "description": "2. Extract document metadata, headings, tables, and lists.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S03",
+      "title": "Validate compliance statements for regulatory workflow alignment.",
+      "description": "3. Validate compliance statements for regulatory workflow alignment.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S04",
+      "title": "Package approved output for multilingual publishing and audit.",
+      "description": "4. Package approved output for multilingual publishing and audit.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S05",
+      "title": "Confirm prerequisites and responsible stakeholders.",
+      "description": "1. Confirm prerequisites and responsible stakeholders.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S06",
+      "title": "Configure environment baseline and perform safety checks.",
+      "description": "2. Configure environment baseline and perform safety checks.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S07",
+      "title": "Execute installation sequence and record outcomes.",
+      "description": "3. Execute installation sequence and record outcomes.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S08",
+      "title": "Submit final validation evidence and release package.",
+      "description": "4. Submit final validation evidence and release package.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    }
+  ],
+  "generation": {
+    "timestamp_utc": "2026-03-22T12:05:28.277260Z",
+    "provider": "stub",
+    "model": "gpt-5.4-mini"
+  },
+  "future_integrations": {
+    "llm_api": "Attach OpenAI or enterprise LLM client through LLMClientProtocol.",
+    "embeddings": "Embedding payload is generated and ready for vector DB ingestion.",
+    "vector_db": "Index embedding_payload into Pinecone, Weaviate, or pgvector."
+  },
+  "llm_enhanced": false,
+  "llm_note": "Stub mode active. Attach an API client to enable model-driven enhancement."
+}

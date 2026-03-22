@@ -1,0 +1,76 @@
+{
+  "document": {
+    "name": "Research_Section_Management.pdf",
+    "pages": 2,
+    "metadata": {
+      "source_name": "Research_Section_Management.pdf",
+      "pages": 2,
+      "words": 383,
+      "tables": 0,
+      "average_confidence": 87.66,
+      "engine": "PyMuPDF"
+    }
+  },
+  "workflow": [
+    {
+      "step_id": "S01",
+      "title": "Validate incoming PDF integrity and metadata.",
+      "description": "Validate incoming PDF integrity and metadata.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S02",
+      "title": "Extract text, layout, and tabular sections.",
+      "description": "Extract text, layout, and tabular sections.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S03",
+      "title": "Generate structured workflow and SOP output.",
+      "description": "Generate structured workflow and SOP output.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    },
+    {
+      "step_id": "S04",
+      "title": "Review, approve, and export final deliverables.",
+      "description": "Review, approve, and export final deliverables.",
+      "role": "Operations Analyst",
+      "inputs": [
+        "Parsed PDF content"
+      ],
+      "outputs": [
+        "Validated workflow state"
+      ]
+    }
+  ],
+  "generation": {
+    "timestamp_utc": "2026-03-22T11:54:22.522952Z",
+    "provider": "stub",
+    "model": "gpt-5.4-mini"
+  },
+  "future_integrations": {
+    "llm_api": "Attach OpenAI or enterprise LLM client through LLMClientProtocol.",
+    "embeddings": "Embedding payload is generated and ready for vector DB ingestion.",
+    "vector_db": "Index embedding_payload into Pinecone, Weaviate, or pgvector."
+  },
+  "llm_enhanced": false,
+  "llm_note": "Stub mode active. Attach an API client to enable model-driven enhancement."
+}

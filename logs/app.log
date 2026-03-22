@@ -1,0 +1,117 @@
+2026-03-22 17:20:48 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 17:20:48 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:21:21 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:21:34 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:21:34 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 17:21:34 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:22:24 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:22:31 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:22:36 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:22:38 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:00 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:03 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:06 | INFO | canberbyte.docflow | Text extraction complete. Pages=196
+2026-03-22 17:23:09 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:09 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:13 | INFO | canberbyte.docflow | Text extraction complete. Pages=196
+2026-03-22 17:23:14 | INFO | canberbyte.docflow | Text extraction complete. Pages=196
+2026-03-22 17:23:21 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:24 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:46 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:48 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:23:48 | INFO | canberbyte.docflow | Text extraction complete. Pages=2
+2026-03-22 17:23:56 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:24:19 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:24:21 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:24:22 | INFO | canberbyte.docflow | Starting AI workflow generation for Research_Section_Management.pdf
+2026-03-22 17:24:22 | INFO | canberbyte.docflow | Workflow inference complete. Steps=4
+2026-03-22 17:24:29 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:24:39 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:24:43 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:24:43 | INFO | canberbyte.docflow | Word export generated: /Users/gnanams/Documents/LOCAL/outputs/research_section_management_workflow.docx
+2026-03-22 17:24:43 | INFO | canberbyte.docflow | JSON export generated: /Users/gnanams/Documents/LOCAL/outputs/research_section_management_workflow.json
+2026-03-22 17:24:43 | INFO | canberbyte.docflow | Markdown export generated: /Users/gnanams/Documents/LOCAL/outputs/research_section_management_sop.md
+2026-03-22 17:24:46 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:25:10 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:25:10 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:25:11 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:25:11 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:25:19 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:34:48 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 17:34:48 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:35:01 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:35:10 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:35:10 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 17:35:10 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:35:24 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:35:28 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:35:28 | INFO | canberbyte.docflow | Starting AI workflow generation for demo_operations_manual.pdf
+2026-03-22 17:35:28 | INFO | canberbyte.docflow | Workflow inference complete. Steps=8
+2026-03-22 17:35:30 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:35:30 | INFO | canberbyte.docflow | Word export generated: /Users/gnanams/Documents/LOCAL/outputs/demo_operations_manual_workflow.docx
+2026-03-22 17:35:30 | INFO | canberbyte.docflow | JSON export generated: /Users/gnanams/Documents/LOCAL/outputs/demo_operations_manual_workflow.json
+2026-03-22 17:35:30 | INFO | canberbyte.docflow | Markdown export generated: /Users/gnanams/Documents/LOCAL/outputs/demo_operations_manual_sop.md
+2026-03-22 17:35:33 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:43:58 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 17:43:58 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:44:15 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:44:15 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 17:44:15 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:44:59 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:45:07 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:45:13 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:45:13 | INFO | canberbyte.docflow | Text extraction complete. Pages=2
+2026-03-22 17:45:23 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:45:23 | INFO | canberbyte.docflow | Starting AI workflow generation for Research_Section_Management.pdf
+2026-03-22 17:45:23 | INFO | canberbyte.docflow | Workflow inference complete. Steps=4
+2026-03-22 17:45:38 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:45:40 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:45:41 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:45:46 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:52:27 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 17:52:27 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:52:36 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:52:44 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:52:54 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:52:54 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 17:52:54 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:53:07 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:53:07 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:53:14 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:53:14 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 17:53:14 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:56:33 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 17:56:33 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:56:42 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:56:42 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 17:56:42 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:58:08 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 17:58:08 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:58:12 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:58:18 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 17:58:18 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 17:58:18 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:02:28 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 18:02:28 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:02:33 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:02:39 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:02:40 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:02:48 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:02:55 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:02:55 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 18:02:55 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:04:59 | INFO | canberbyte.docflow | Logger initialized for Canberbyte DocFlow AI
+2026-03-22 18:04:59 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:05:11 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:05:11 | INFO | canberbyte.docflow | User authenticated: admin
+2026-03-22 18:05:11 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:05:35 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:05:44 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:05:46 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:05:46 | INFO | canberbyte.docflow | Text extraction complete. Pages=2
+2026-03-22 18:06:00 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:06:00 | INFO | canberbyte.docflow | Starting AI workflow generation for Research_Section_Management.pdf
+2026-03-22 18:06:00 | INFO | canberbyte.docflow | Workflow inference complete. Steps=4
+2026-03-22 18:06:14 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:08:14 | INFO | canberbyte.docflow | Auth users loaded: admin, user
+2026-03-22 18:08:14 | INFO | canberbyte.docflow | Auth users loaded: admin, user
